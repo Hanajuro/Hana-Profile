@@ -269,7 +269,7 @@ export default function App() {
       {/* Footer */}
       <footer className="py-12 px-6 md:px-24 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-8">
         <div className="text-xs uppercase tracking-[0.3em] text-gray-500">
-          © 2026 REYHAN. ALL RIGHTS RESERVED.
+          © 2026 HANAJURO. ALL RIGHTS RESERVED.
         </div>
         <div className="flex gap-8">
           <a href="#" className="text-xs uppercase tracking-widest font-bold hover:text-cyan-400 transition-colors">Instagram</a>
