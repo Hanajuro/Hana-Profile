@@ -101,7 +101,7 @@ Reyhan Azwar        </motion.div>
           className="z-10"
         >
           <span className="text-cyan-400 text-xs font-bold uppercase tracking-[0.3em] mb-4 block">
-            IT Infrastructure Specialist
+            Junior IT Infrastruktur
           </span>
           <h1 className="text-[12vw] md:text-[8vw] leading-[0.85] font-black uppercase tracking-tighter mb-8">
             Optimizing <br />
@@ -150,21 +150,21 @@ Reyhan Azwar        </motion.div>
               About Me
             </h2>
             <p className="text-xl text-gray-300 leading-relaxed mb-6">
-              Saya adalah seorang profesional IT lulusan SMK Prima Unggul jurusan Teknik Komputer Jaringan (TKJ). 
+              Saya adalah seorang Junior IT lulusan SMK Prima Unggul jurusan Teknik Komputer Jaringan (TKJ). 
               Memiliki ketertarikan mendalam dan keahlian dalam merancang serta mengelola infrastruktur IT yang kompleks.
             </p>
             <p className="text-gray-400 leading-relaxed mb-10">
               Fokus utama saya adalah memastikan sistem jaringan dan server berjalan dengan performa maksimal. 
-              Saya percaya bahwa infrastruktur yang kuat adalah fondasi utama dari setiap solusi digital yang sukses.
+              Saya percaya bahwa infrastruktur yang kuat adalah pondasi utama dari setiap solusi digital yang sukses.
             </p>
             <div className="grid grid-cols-2 gap-8">
               <div>
-                <div className="text-3xl font-bold text-cyan-400">50+</div>
+                <div className="text-3xl font-bold text-cyan-400">0</div>
                 <div className="text-xs uppercase tracking-widest text-gray-500 mt-1">Projects Completed</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-cyan-400">12+</div>
-                <div className="text-xs uppercase tracking-widest text-gray-500 mt-1">Happy Clients</div>
+                <div className="text-3xl font-bold text-cyan-400"></div>
+                <div className="text-xs uppercase tracking-widest text-gray-500 mt-1"></div>
               </div>
             </div>
           </div>
