@@ -32,7 +32,7 @@ const skills = [
   { name: "Networking", icon: <Palette className="w-4 h-4" />, items: ["Cisco CCNA", "Mikrotik MTCNA", "VLAN/STP", "Routing & Switching"] },
   { name: "Servers", icon: <Terminal className="w-4 h-4" />, items: ["Linux Administration", "Windows Server", "Active Directory", "Web Servers"] },
   { name: "Infrastructure", icon: <Cpu className="w-4 h-4" />, items: ["Virtualization", "Cloud Computing", "Data Center Management", "Backup Solutions"] },
-  { name: "Security", icon: <Code className="w-4 h-4" />, items: ["Firewall (Fortinet)", "VPN Setup", "Network Security", "Intrusion Detection"] }
+  { name: "Security", icon: <Code className="w-4 h-4" />, items: ["Firewall", "VPN Setup", "Network Security", "Intrusion Detection"] }
 ];
 
 export default function App() {
