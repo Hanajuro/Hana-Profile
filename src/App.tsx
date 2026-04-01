@@ -273,7 +273,7 @@ Reyhan Azwar        </motion.div>
         <div className="flex gap-8">
           <a href="#" className="text-xs uppercase tracking-widest font-bold hover:text-cyan-400 transition-colors">Instagram</a>
           <a href="#" className="text-xs uppercase tracking-widest font-bold hover:text-cyan-400 transition-colors">Twitter</a>
-          <a href="#" className="text-xs uppercase tracking-widest font-bold hover:text-cyan-400 transition-colors">Dribbble</a>
+          <a href="https://wa.me/6283848804032?text=Hallo%20Hana" className="text-xs uppercase tracking-widest font-bold hover:text-cyan-400 transition-colors">WhatsApp</a>
         </div>
       </footer>
     </div>
