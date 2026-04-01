@@ -78,8 +78,7 @@ export default function App() {
           animate={{ opacity: 1, x: 0 }}
           className="text-xl font-bold tracking-tighter"
         >
-          REYHAN.
-        </motion.div>
+Reyhan Azwar        </motion.div>
         <div className="flex gap-8 text-xs uppercase tracking-widest font-medium">
           {["About", "Skills", "Projects", "Contact"].map((item) => (
             <a 
