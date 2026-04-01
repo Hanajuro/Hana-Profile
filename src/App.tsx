@@ -258,10 +258,10 @@ export default function App() {
             Have an idea? Let's bring it to life.
           </p>
           <a 
-            href="mailto:hello@reyhan.dev" 
+            href="mailto:reyhanns57@gmail.com" 
             className="text-2xl md:text-4xl font-bold border-b-4 border-white hover:border-cyan-400 hover:text-cyan-400 transition-all pb-2"
           >
-            hello@reyhan.dev
+            Hubungi Saya!
           </a>
         </motion.div>
       </section>
